@@ -1,0 +1,15 @@
+[
+    {
+        "id": 0,
+        "automobiliste": "auteur@example.com",
+        "depart": "Universit\u00e9 A",
+        "destination": "Universit\u00e9 B",
+        "heure_depart": "2025-05-30 08:00",
+        "places_disponibles": 3,
+        "reservations": [],
+        "etat": "en_attente",
+        "note_totale": 0,
+        "nombre_notes": 0,
+        "points_gagnes": 10
+    }
+]
