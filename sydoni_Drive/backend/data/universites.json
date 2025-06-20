@@ -1,0 +1,19 @@
+[
+    {
+        "nom": "Burkina institut of technologie",
+        "latitude": 12.2419 ,
+        "longitude":-2.4083 
+    },
+
+    {
+        "nom": "Université Norbert Zongo (UNZ)",
+        "latitude": 12.2400,
+        "longitude": -2.3990 
+    },
+        
+    {
+        "nom": "Institut Supérieur de Management de Koudougou (ISMK)",
+        "latitude": 12.2526,
+        "longitude": -2.3627 
+    }
+]
